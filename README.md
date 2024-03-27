@@ -18,3 +18,4 @@
 <img src="https://github.com/wlog106/waiter_bot/assets/163823967/816b59ea-eeb5-4b72-a06f-b9d15b915a72" width=35%>
 
 ### 7.重置所有訂單(.reset)
+<img src="https://github.com/wlog106/waiter_bot/assets/163823967/8a9d8ae6-9184-49e8-a0ea-ef44cb23bf9e)" width=35%>
