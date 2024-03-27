@@ -1,5 +1,6 @@
 # DEMO
 ## 1.取得菜單(.menu)
+![image](https://github.com/wlog106/waiter_bot/tree/master/readme_img)
 ## 2.新增指定品項(.add "item")
 ## 3.刪除指定品項(.delete "item")
 ## 4.計算所有已訂購品項總金額(.total)
