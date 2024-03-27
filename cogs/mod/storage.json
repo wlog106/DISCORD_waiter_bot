@@ -1,0 +1,49 @@
+{
+  "storage": [
+    {
+      "ename": "mb70",
+      "amount": 0,
+      "price": 70
+    },
+    {
+      "ename": "mb80",
+      "amount": 0,
+      "price": 80
+    },
+    {
+      "ename": "flamingo",
+      "amount": 0,
+      "price": 55
+    },
+    {
+      "ename": "sf70",
+      "amount": 0,
+      "price": 70
+    },
+    {
+      "ename": "sf75",
+      "amount": 0,
+      "price": 75
+    },
+    {
+      "ename": "sf80",
+      "amount": 0,
+      "price": 80
+    },
+    {
+      "ename": "cirA",
+      "amount": 0,
+      "price": 60
+    },
+    {
+      "ename": "cirB",
+      "amount": 0,
+      "price": 60
+    },
+    {
+      "ename": "cirS",
+      "amount": 0,
+      "price": 65
+    }
+  ]
+}

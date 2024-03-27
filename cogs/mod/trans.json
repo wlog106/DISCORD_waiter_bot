@@ -1,0 +1,40 @@
+{
+    "storage": [
+      {
+        "cname": "米寶70",
+        "ename": "mb70"
+      },
+      {
+        "cname": "米寶80",
+        "ename": "mb80"
+      },
+      {
+        "cname": "彩鶴",
+        "ename": "flamingo"
+      },
+      {
+        "cname": "太師傅70",
+        "ename": "sf70"
+      },
+      {
+        "cname": "太師傅75",
+        "ename": "sf75"
+      },
+      {
+        "cname": "太師傅80",
+        "ename": "sf80"
+      },
+      {
+        "cname": "正園A",
+        "ename": "cirA"
+      },
+      {
+        "cname": "正園B",
+        "ename": "cirB"
+      },
+      {
+        "cname": "正園羊",
+        "ename": "cirS"
+      }
+    ]
+  }

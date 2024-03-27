@@ -1,0 +1,54 @@
+{
+    "items":[
+        {
+            "cname":"米寶70",
+            "ename":"mb70",
+            "price":70
+        },
+        {   
+            "cname":"米寶80",
+            "ename":"mb80",
+            "price":80
+        },
+        {
+            "cname":"彩鶴",
+            "ename":"flamingo",
+            "price":55 
+        },
+        {  
+            "cname":"太師傅70",
+            "ename":"sf70",
+            "price":70
+        },
+        {
+            "cname":"太師傅75",
+            "ename":"sf75",
+            "price":75
+        },
+        {
+            "cname":"太師傅80",
+            "ename":"sf80",
+            "price":80
+        },
+        {   
+            "cname":"正園A",
+            "ename":"cirA",
+            "price":60
+        },
+        {   
+            "cname":"正園B",
+            "ename":"cirB",
+            "price":60
+        },
+        {
+            "cname":"正園羊",
+            "ename":"cirS",
+            "price":65
+        }
+    ],
+    "for_waiter":["米寶70","米寶80","彩鶴","太師傅70","太師傅75","太師傅80","正園A","正園B","正園羊"]
+
+   
+    
+    
+}
