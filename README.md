@@ -1,6 +1,6 @@
 # DEMO
 ## 1.取得菜單(.menu)
-![menu](https://github.com/wlog106/waiter_bot/assets/163823967/a7e66ada-1569-413e-8e77-03bf1b3a86c4)
+### ![menu](https://github.com/wlog106/waiter_bot/assets/163823967/a7e66ada-1569-413e-8e77-03bf1b3a86c4)
 ## 2.新增指定品項(.add "item")
 ## 3.刪除指定品項(.delete "item")
 ## 4.計算所有已訂購品項總金額(.total)
