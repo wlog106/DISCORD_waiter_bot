@@ -12,7 +12,7 @@
 <img src="https://github.com/wlog106/waiter_bot/assets/163823967/3d9aa39b-e829-4195-bbfb-97a88fbf4213" width=35%>
 
 ### 5.輸出指定品項數量及價錢(.amount "item")
-
+<img src="https://github.com/wlog106/waiter_bot/assets/163823967/f5bb7c26-3349-46de-b6c7-404071ff518f" width=35%>
 
 ### 6.羅列所有已訂購品項數量及價錢(.list)
 <img src="https://github.com/wlog106/waiter_bot/assets/163823967/816b59ea-eeb5-4b72-a06f-b9d15b915a72" width=35%>
