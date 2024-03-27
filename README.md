@@ -15,4 +15,6 @@
 
 
 ### 6.羅列所有已訂購品項數量及價錢(.list)
+<img src="https://github.com/wlog106/waiter_bot/assets/163823967/816b59ea-eeb5-4b72-a06f-b9d15b915a72" width=35%>
+
 ### 7.重置所有訂單(.reset)
