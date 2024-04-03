@@ -1,10 +1,10 @@
 ## 主要檔案架構
 ### discord bot
-> ## main.py  
-> cogs
->> waiter.py(指令)  
->> mod
->>> cac_stor.py(函式庫)
+> ### main.py  
+> ### cogs
+>> ### waiter.py(指令)  
+>> ### mod
+>>> ### cac_stor.py(函式庫)
 
 ## DEMO
 ### 1.取得菜單(.menu)
