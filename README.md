@@ -1,6 +1,6 @@
 ## 主要檔案架構
 ### discord bot
-### > main.py  
+> ## main.py  
 > cogs
 >> waiter.py(指令)  
 >> mod
