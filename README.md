@@ -1,8 +1,8 @@
 ## 檔案架構
 discord bot
-> main.py
+> main.py"\n"
 > cogs
->> waiter.py(指令)
+>> waiter.py(指令)"\n"
 >> mod
 >>> cac_stor.py(函式庫)
 
