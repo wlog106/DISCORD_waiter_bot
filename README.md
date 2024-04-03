@@ -1,3 +1,13 @@
+## 檔案架構
+##### discord bot
+#####  >main.py
+#####  >cogs
+#####   >waiter.py(指令)
+#####   >mod
+#####    >cac_stor.py(函式庫)
+
+
+
 ## DEMO
 ### 1.取得菜單(.menu)
 <img src="https://github.com/wlog106/waiter_bot/assets/163823967/8c166d0c-58b4-4381-bfe6-8cf7a39a7fe2" width=45%>
