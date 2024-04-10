@@ -2,7 +2,7 @@
 ### discord bot
 ### |--- main.py  
 ### |--- cogs
-### &emsp; |---waiter.py(指令)  
+### &emsp; &nbsp; |---waiter.py(指令)  
 >> ### mod
 >>> ### cac_stor.py(函式庫)
 
