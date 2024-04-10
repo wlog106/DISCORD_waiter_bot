@@ -1,8 +1,8 @@
 ## 主要檔案架構
 ### discord bot
-> ### main.py  
-> ### cogs
->> ### waiter.py(指令)  
+### |--- main.py  
+### |--- cogs
+### &emsp; |---waiter.py(指令)  
 >> ### mod
 >>> ### cac_stor.py(函式庫)
 
