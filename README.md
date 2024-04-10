@@ -2,9 +2,9 @@
 ### discord bot
 ### |--- main.py  
 ### |--- cogs
-### &emsp; &nbsp; |---waiter.py(指令)  
->> ### mod
->>> ### cac_stor.py(函式庫)
+### &emsp; &nbsp; |--- waiter.py(指令)  
+###  &emsp; &nbsp; |--- mod
+### &emsp; &emsp; |--- cac_stor.py(函式庫)
 
 ## DEMO
 ### 1.取得菜單(.menu)
