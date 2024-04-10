@@ -4,7 +4,7 @@
 ### |--- cogs
 ### &emsp; &nbsp; |--- waiter.py(指令)  
 ###  &emsp; &nbsp; |--- mod
-### &emsp; &emsp; &emsp; &nbsp; |--- cac_stor.py(函式庫)
+### &emsp; &emsp; &emsp; |--- cac_stor.py(函式庫)
 
 ## DEMO
 ### 1.取得菜單(.menu)
